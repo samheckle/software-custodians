@@ -81,6 +81,7 @@ A website I found during my research that looks pretty awesome: https://suckless
 2. Identify which jailbreaking tool that works for your version
    - iOS pre `v9`: https://github.com/LukeZGD/Legacy-iOS-Kit
    - iOS `12-12.8.7`: https://chimera.coolstar.org/
+        - need PlumeImpactor as well: https://github.com/CLARATION/Impactor/releases/tag/v2.2.3
    - iOS `15-16.6.1`: https://ellekit.space/dopamine/
    - iPod Nano (except 6G): https://github.com/freemyipod/wInd3x?tab=readme-ov-file#wind3x
 3. Connect your device to wifi
