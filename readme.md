@@ -3,8 +3,12 @@
 ## Required Tools
 
 - Computer
+  - Mac: OK
+  - Linux: Some issues depending on your OS, good luck!
+  - Windows: Iffy, might need more research!
 - iDevice: iPod, iPhone, iPad
 - Cable
+  - Usually need USB-A to lightning or 10-prong. 
 
 ## Agenda
 
@@ -22,6 +26,7 @@ I am only building on those who came before me:
 - [Compile C Applications with GCC on iOS 4](https://blog.syshalt.net/index.php/2010/09/12/compile-c-applications-with-gcc-on-ios-4-iphone/) from Sergiu, 2010
 - [Homebrew iOS](https://web.archive.org/web/20230119142632/https://wiki.secondlife.com/wiki/Homebrew_iOS) - Kira Komarov, 2012
 - https://ios.cfw.guide/
+     - This is my source of truth and a lot of the info is pulled from here. 
 
 ### What is jailbreaking?
 
