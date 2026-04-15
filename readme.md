@@ -95,7 +95,11 @@ A website I found during my research that looks pretty awesome: https://suckless
    - Even though this is the title of the workshop, this is actually the easiest part
    - As per the instructions on whichever too
 
-Depending on your device, you will need to install different tools
+## Post-Jailbreak
+
+Open up your package manager (Cydia, Sileo, or Zebra) and install the following packages.
+
+*Note* If you are using Sileo, you need to update the packages *first*.
 
 All devices:
 
@@ -106,10 +110,10 @@ Cydia (pre `v9`)
 
 - BigBoss Recommended Tools
 
-Sileo (post `v10`)
+Some other issues that might come up:
 
-- update packages
-- fakelibgcc
+- If your device is `>4.3` but you are having `https` issues, you might need to install some certificates: https://tlsroot.litten.ca/
+- If you are having issues connecting to Cydia after installing certificates: you might need to `Update DateTime` in the menu.
 
 ### Repositories
 
