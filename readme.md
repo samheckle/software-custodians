@@ -218,3 +218,11 @@ Special thanks to these resources
 - https://theapplewiki.com/wiki/Up_to_Speed
 - https://www.reddit.com/r/jailbreak/
 - https://www.reddit.com/r/LegacyJailbreak/
+
+Some other useful resources:
+
+- [Opportunities and Challenges in Securely Reusing and Repurposing Mobile Devices](https://arxiv.org/pdf/2606.06181)
+- [resources for Radical Infrastructures, Permacomputing, Stealth Hosting and Other Networks](https://miriamreynoldson.com/2026/06/08/resources-for-radical-infrastructures-permacomputing-stealth-hosting-and-other-networks/) - zine on jailbreaking android devices starting on page 17
+- [postmarketOS on apple devices](https://wiki.postmarketos.org/wiki/Apple_iPhone_6_(apple-n61))
+- Clara Rigaud reusing android devices as modular synths: [Zombitron](https://clararigaud.com/zombitron/)
+- Wilderland workshop on [jailbreaking android devices](https://wilderland.ie/pages/permacomputing-workshop2-repurposing-smartphones.html)
