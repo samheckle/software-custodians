@@ -44,10 +44,10 @@ sam heckle (they/she)
 - love https://nyc.permacomputing.net/
 - maintainer of https://l5lua.org/ , a creative coding library
 
-https://samheckle.com/
-https://bsky.app/profile/smarmy.space
-https://www.instagram.com/semantic.lol/
-(fediverse but only lurking for L5: @L5@tldr.nettime.org)
+https://samheckle.com/  
+https://bsky.app/profile/smarmy.space  
+https://www.instagram.com/semantic.lol/  
+(fediverse but only lurking for L5: @L5@tldr.nettime.org)  
 
 This is a distillation of research that stemmed from the question:
 
