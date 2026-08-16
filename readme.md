@@ -16,6 +16,7 @@ This is specific to iOS, but if you are looking for Android check the [extra res
 
 1. Plug in your device if it is not charged already
 2. Open this repo to follow along: https://github.com/samheckle/software-custodians
+   
 ![github](/images/qrcode_github.com.png)
 
 Zine!!
